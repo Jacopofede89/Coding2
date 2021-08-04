@@ -1,0 +1,70 @@
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.quadrato{
+  background-color: black;
+  border-radius: 10px;
+  opacity: 0.8;
+  margin-top: 25px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 50px;
+  width: 1000px;
+  height: 700px
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.logo-text{
+  text-align: center;
+  color: rgba(0,221,0,255)
+}
+.center{
+  background-color: rgba(0,221,0,255);
+  width: 900px;
+  height: 35px;
+  margin:auto;
+}
+
+.button-row{
+margin-left: 300px;
+margin-bottom: 30px;
+padding: 7px;
+}
+
+.row{
+ margin:auto;
+ font-size: 20px;
+ color: white;
+ }
+
+.row2{
+  background-color: orange;
+  padding: 15px;
+  width: 35%;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+.middle-row2{
+background-color: rgba(0,221,0,255);
+padding: 15px;
+width: 50%;
+border-radius: 10px;
+margin-bottom: 25px;
+}
+
+.down-row2{
+background-color: red;
+padding: 15px;
+width: 15%;
+border-radius: 10px;
+}
